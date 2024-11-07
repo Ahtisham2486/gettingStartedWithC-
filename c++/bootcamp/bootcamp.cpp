@@ -7,8 +7,21 @@
 
 
 
- 
-//    int arr[] = { 2,3,4,5,6,7,8};
+//  {
+//     int arr[]= { 2,3,4,5,6,7,8};
+   
+//     int i = 5;
+//     do{
+//         cout << "my current number is:" << arr[i] << endl;
+//         i++;
+
+//     } while (i<8);
+//     cout << endl;
+    
+//     return 0;
+//  } 
+
+// //    int arr[] = { 2,3,4,5,6,7,8};
 //    int i=0;
 //    do{
 //       cout<< "my current numbes is :" << arr[i]<< endl;
