@@ -16,5 +16,6 @@ int main(){
         else if (age>70){
             cout<<" retired ";
         }
+        return 0;
     }
 
